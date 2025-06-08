@@ -1,0 +1,7 @@
+// filepath: /Users/dai/python-pj/file_converter/.gitignore
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+.venv/
