@@ -17,7 +17,7 @@ A Python command-line tool that converts Markdown files to beautifully styled HT
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/NanaChiki/file_converter.git
+git clone https://github.com/NanaChiki/File_converter.git
 cd file_converter
 ```
 
